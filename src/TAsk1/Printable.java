@@ -1,2 +1,4 @@
-package TAsk1;public interface Printable {
+package TAsk1;
+public interface Printable {
+      void print ();
 }
